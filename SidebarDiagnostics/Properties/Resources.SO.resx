@@ -134,11 +134,11 @@
     <comment>CPU monitor title</comment>
   </data>
   <data name="ButtonDonate" xml:space="preserve">
-    <value>Donate</value>
+    <value>Nalasoo</value>
     <comment>Text of the donate button</comment>
   </data>
   <data name="Drives" xml:space="preserve">
-    <value>Drives</value>
+    <value>kaxeeya</value>
     <comment>Drives monitor title</comment>
   </data>
   <data name="CPUFan" xml:space="preserve">
@@ -174,7 +174,7 @@
     <comment>Text of the show button</comment>
   </data>
   <data name="Sidebar" xml:space="preserve">
-    <value>Sidebar</value>
+    <value>galeeysid</value>
     <comment>Title of the sidebar window</comment>
   </data>
   <data name="CPUTemp" xml:space="preserve">
@@ -194,7 +194,7 @@
     <comment>Text of the visibility button</comment>
   </data>
   <data name="CPUVoltage" xml:space="preserve">
-    <value>Voltage</value>
+    <value>danab</value>
     <comment>Full name for CPU voltage metric</comment>
   </data>
   <data name="ButtonGitHub" xml:space="preserve">
@@ -238,7 +238,7 @@
     <comment>Short label for CPU load metric</comment>
   </data>
   <data name="CPUTempLabel" xml:space="preserve">
-    <value>Temp</value>
+    <value>sharikadaha</value>
     <comment>Short label for CPU temp metric</comment>
   </data>
   <data name="CPUVoltageLabel" xml:space="preserve">
@@ -278,11 +278,11 @@
     <comment>Short label for drive read metric</comment>
   </data>
   <data name="DriveUsed" xml:space="preserve">
-    <value>Used</value>
+    <value>Isticmaalo</value>
     <comment>Full name for drive used metric</comment>
   </data>
   <data name="DriveUsedLabel" xml:space="preserve">
-    <value>Used</value>
+    <value>Isticmaalo</value>
     <comment>Short label for drive used metric</comment>
   </data>
   <data name="DriveWrite" xml:space="preserve">
@@ -326,11 +326,11 @@
     <comment>Short label for GPU temp metric</comment>
   </data>
   <data name="GPUVoltage" xml:space="preserve">
-    <value>Voltage</value>
+    <value>danab</value>
     <comment>Full name for GPU voltage metric</comment>
   </data>
   <data name="GPUVoltageLabel" xml:space="preserve">
-    <value>Voltage</value>
+    <value>danab</value>
     <comment>Short label for GPU voltage metric</comment>
   </data>
   <data name="GPUVRAMClock" xml:space="preserve">
@@ -398,11 +398,11 @@
     <comment>Short label for RAM used metric</comment>
   </data>
   <data name="RAMVoltage" xml:space="preserve">
-    <value>Voltage</value>
+    <value>danab</value>
     <comment>Full name for RAM voltage metric</comment>
   </data>
   <data name="RAMVoltageLabel" xml:space="preserve">
-    <value>Voltage</value>
+    <value>danab</value>
     <comment>Short label for RAM voltage metric</comment>
   </data>
   <data name="ButtonApply" xml:space="preserve">
@@ -426,7 +426,7 @@
     <comment>Text of the save button</comment>
   </data>
   <data name="ButtonSkip" xml:space="preserve">
-    <value>Skip</value>
+    <value>boodboodaan</value>
     <comment>Text of the skip button</comment>
   </data>
   <data name="ButtonYes" xml:space="preserve">
@@ -470,7 +470,7 @@
     <comment>Graph config hardware label</comment>
   </data>
   <data name="GraphMetrics" xml:space="preserve">
-    <value>Metrics</value>
+    <value>tubta</value>
     <comment>Graph config metrics label</comment>
   </data>
   <data name="GraphMonitor" xml:space="preserve">
@@ -554,7 +554,7 @@
     <comment>Settings background color label</comment>
   </data>
   <data name="SettingsBackgroundColorTooltip" xml:space="preserve">
-    <value>Color of the background.</value>
+    <value>Color of asalka .</value>
     <comment>Settings background color tooltip</comment>
   </data>
   <data name="SettingsBackgroundOpacity" xml:space="preserve">
@@ -906,23 +906,23 @@
     <comment>Settings use fahrenheit tooltip</comment>
   </data>
   <data name="SettingsUseGHz" xml:space="preserve">
-    <value>Use GHz</value>
+    <value>Isticmaal GHz</value>
     <comment>Settings use GHz label</comment>
   </data>
   <data name="SettingsUseGHzTooltip" xml:space="preserve">
-    <value>Clock speeds will be in GHz instead of MHz.</value>
+    <value>xawaare Clock noqon doontaa in GHz halkii MHz .</value>
     <comment>Settings use GHz tooltip</comment>
   </data>
   <data name="SettingsVerticalOffset" xml:space="preserve">
-    <value>Vertical Offset</value>
+    <value>Vertical mowjadda</value>
     <comment>Vertical offset settings label</comment>
   </data>
   <data name="SettingsVerticalOffsetTooltip" xml:space="preserve">
-    <value>Vertical offset of the sidebar.</value>
+    <value>Vertical mowjadda of galeeysid ah .</value>
     <comment>Vertical Offset settings tooltip</comment>
   </data>
   <data name="SetupCustomSubtitle" xml:space="preserve">
-    <value>Use the sliders and textboxes to move the sidebar to the correct position.</value>
+    <value>Isticmaal sliders iyo textboxes inuu u dhaqaaqo galeeysid in ay booska saxda ah .</value>
     <comment>Subtitle of the custom setup page</comment>
   </data>
   <data name="SetupCustomTitle" xml:space="preserve">
@@ -930,35 +930,35 @@
     <comment>Title of the custom setup page</comment>
   </data>
   <data name="SetupDoneSubtitle" xml:space="preserve">
-    <value>If you want to customize the sidebar click the settings button.</value>
+    <value>Haddii aad rabto in aad astaysto galeeysid ku riix batoonka goobaha .</value>
     <comment>Subtitle of the setup done page</comment>
   </data>
   <data name="SetupDoneText" xml:space="preserve">
-    <value>You can also access the settings via the gear icon at the top-right of the sidebar or via the tray icon in the taskbar.</value>
+    <value>Waxa kale oo aad ka heli kartaa goobaha via icon marsho ee - xaq u top of galeeysid ama via icon saxaarad ee Launch ah .</value>
     <comment>Text of the setup done page</comment>
   </data>
   <data name="SetupDoneTitle" xml:space="preserve">
-    <value>Done!</value>
+    <value>Qabtay !</value>
     <comment>Title of the setup done page</comment>
   </data>
   <data name="SetupSubtitle" xml:space="preserve">
-    <value>This is a quick setup to get the sidebar in the correct position.</value>
+    <value>Tani waa Mudanayaasha degdeg ah si aad u hesho galeeysid ee booska saxda ah .</value>
     <comment>Subtitle of the initial setup page</comment>
   </data>
   <data name="SetupText" xml:space="preserve">
-    <value>Is the sidebar visible and docked to the right edge of your primary monitor?</value>
+    <value>Ma galeeysid ee la arki karo oo xirtey cidhifka midig ee aad monitor hoose ?</value>
     <comment>Text of the initial setup page</comment>
   </data>
   <data name="SetupTitle" xml:space="preserve">
-    <value>Initial Setup</value>
+    <value>Setup Hore</value>
     <comment>Title of the initial setup page</comment>
   </data>
   <data name="UpdateErrorFatalText" xml:space="preserve">
-    <value>A fatal error occurred while trying to update. Auto update is now disabled.</value>
+    <value>baadi A dilaa dhacay markii uu isku dayay si aad u cusboonaysiiso . update Auto hadda naafo .</value>
     <comment>Fatal text of the update error popup</comment>
   </data>
   <data name="UpdateErrorText" xml:space="preserve">
-    <value>Unable to update. Check your internet connection.</value>
+    <value>Lama cusbooneysiin karo . Hubi xiriir aad internet .</value>
     <comment>Text of the update error popup</comment>
   </data>
   <data name="UpdateErrorTitle" xml:space="preserve">
@@ -966,11 +966,11 @@
     <comment>Title of the update error popup</comment>
   </data>
   <data name="UpdateSuccessText" xml:space="preserve">
-    <value>You have the latest version.</value>
+    <value>Waxaad version ugu dambeeyey .</value>
     <comment>Text of the update success popup</comment>
   </data>
   <data name="UpdateTitle" xml:space="preserve">
-    <value>Updating</value>
+    <value>Cusbooneysiinta</value>
     <comment>Title of the update window</comment>
   </data>
   <data name="SettingsTextAlign" xml:space="preserve">

@@ -122,15 +122,15 @@
     <comment>Name of the app</comment>
   </data>
   <data name="CPUClock" xml:space="preserve">
-    <value>Clock</value>
+    <value>saacad</value>
     <comment>Full name for CPU clock metric</comment>
   </data>
   <data name="ButtonClose" xml:space="preserve">
-    <value>Close</value>
+    <value>ku dhow</value>
     <comment>Text of the close button</comment>
   </data>
   <data name="CPU" xml:space="preserve">
-    <value>CPU</value>
+    <value>processor</value>
     <comment>CPU monitor title</comment>
   </data>
   <data name="ButtonDonate" xml:space="preserve">
@@ -142,7 +142,7 @@
     <comment>Drives monitor title</comment>
   </data>
   <data name="CPUFan" xml:space="preserve">
-    <value>Fan Usage</value>
+    <value>isticmaalka taageere</value>
     <comment>Full name for CPU fan metric</comment>
   </data>
   <data name="GPU" xml:space="preserve">
@@ -158,11 +158,11 @@
     <comment>Network monitor title</comment>
   </data>
   <data name="RAM" xml:space="preserve">
-    <value>RAM</value>
+    <value>wan</value>
     <comment>RAM monitor title</comment>
   </data>
   <data name="ButtonReload" xml:space="preserve">
-    <value>Reload</value>
+    <value>miridh</value>
     <comment>Text of the reload button</comment>
   </data>
   <data name="ButtonSettings" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>Title of the sidebar window</comment>
   </data>
   <data name="CPUTemp" xml:space="preserve">
-    <value>Temperature</value>
+    <value>heerkulka</value>
     <comment>Full name for CPU temp metric</comment>
   </data>
   <data name="Time" xml:space="preserve">
@@ -190,7 +190,7 @@
     <comment>Text of the update button</comment>
   </data>
   <data name="ButtonVisibility" xml:space="preserve">
-    <value>Visibility</value>
+    <value>aragti</value>
     <comment>Text of the visibility button</comment>
   </data>
   <data name="CPUVoltage" xml:space="preserve">
@@ -198,7 +198,7 @@
     <comment>Full name for CPU voltage metric</comment>
   </data>
   <data name="ButtonGitHub" xml:space="preserve">
-    <value>GitHub</value>
+    <value>xarun git</value>
     <comment>Text of the GitHub button</comment>
   </data>
   <data name="CPULoad" xml:space="preserve">
@@ -206,11 +206,11 @@
     <comment>Full name for CPU load metric</comment>
   </data>
   <data name="ButtonGraph" xml:space="preserve">
-    <value>Graph</value>
+    <value>garaaf</value>
     <comment>Text of the graph button</comment>
   </data>
   <data name="CPUClockLabel" xml:space="preserve">
-    <value>Clock</value>
+    <value>saacad</value>
     <comment>Short label for CPU clock metric</comment>
   </data>
   <data name="CPUCoreClock" xml:space="preserve">
@@ -242,7 +242,7 @@
     <comment>Short label for CPU temp metric</comment>
   </data>
   <data name="CPUVoltageLabel" xml:space="preserve">
-    <value>Voltage</value>
+    <value>danab</value>
     <comment>Short label for CPU voltage metric</comment>
   </data>
   <data name="DriveFree" xml:space="preserve">
@@ -274,7 +274,7 @@
     <comment>Full name for drive read metric</comment>
   </data>
   <data name="DriveReadLabel" xml:space="preserve">
-    <value>Read</value>
+    <value>akhri</value>
     <comment>Short label for drive read metric</comment>
   </data>
   <data name="DriveUsed" xml:space="preserve">
@@ -286,11 +286,11 @@
     <comment>Short label for drive used metric</comment>
   </data>
   <data name="DriveWrite" xml:space="preserve">
-    <value>Write Rate</value>
+    <value>heerka qortaa</value>
     <comment>Full name for drive write metric</comment>
   </data>
   <data name="DriveWriteLabel" xml:space="preserve">
-    <value>Write</value>
+    <value>ku qor</value>
     <comment>Short label for drive write metric</comment>
   </data>
   <data name="GPUCoreClock" xml:space="preserve">
@@ -362,7 +362,7 @@
     <comment>Full name for network out metric</comment>
   </data>
   <data name="NetworkOutLabel" xml:space="preserve">
-    <value>Out</value>
+    <value>baxay</value>
     <comment>Short label for network out metric</comment>
   </data>
   <data name="RAMClock" xml:space="preserve">
@@ -406,15 +406,15 @@
     <comment>Short label for RAM voltage metric</comment>
   </data>
   <data name="ButtonApply" xml:space="preserve">
-    <value>Apply</value>
+    <value>codsan</value>
     <comment>Text of the apply button</comment>
   </data>
   <data name="ButtonCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>baajiso</value>
     <comment>Text of the cancel button</comment>
   </data>
   <data name="ButtonDone" xml:space="preserve">
-    <value>Done</value>
+    <value>soo gabagabeeyay</value>
     <comment>Text of the done button</comment>
   </data>
   <data name="ButtonNo" xml:space="preserve">
@@ -422,7 +422,7 @@
     <comment>Text of the no button</comment>
   </data>
   <data name="ButtonSave" xml:space="preserve">
-    <value>Save</value>
+    <value>badbaadiyo</value>
     <comment>Text of the save button</comment>
   </data>
   <data name="ButtonSkip" xml:space="preserve">
@@ -430,15 +430,15 @@
     <comment>Text of the skip button</comment>
   </data>
   <data name="ButtonYes" xml:space="preserve">
-    <value>Yes</value>
+    <value>haa</value>
     <comment>Text of the yes button</comment>
   </data>
   <data name="ChangeLogTitle" xml:space="preserve">
-    <value>Change Log</value>
+    <value>isbedelka log</value>
     <comment>Title of the change log window</comment>
   </data>
   <data name="ErrorPerformanceCounter" xml:space="preserve">
-    <value>Your Performance Counter cache is corrupted. Click OK to visit the wiki and fix this error.</value>
+    <value>waxqabadkaaga</value>
     <comment>Text of the performance counter error</comment>
   </data>
   <data name="ErrorTitle" xml:space="preserve">
@@ -454,11 +454,11 @@
     <comment>Graph config duration label</comment>
   </data>
   <data name="GraphDurationMinute" xml:space="preserve">
-    <value>Minute</value>
+    <value>daqiiqo</value>
     <comment>Graph duration minute</comment>
   </data>
   <data name="GraphDurationMinutes" xml:space="preserve">
-    <value>Minutes</value>
+    <value>daqiiqo</value>
     <comment>Graph duration minutes plural</comment>
   </data>
   <data name="GraphDurationSeconds" xml:space="preserve">
@@ -482,19 +482,19 @@
     <comment>Title of the graph window</comment>
   </data>
   <data name="LanguageChangedText" xml:space="preserve">
-    <value>Please restart the app.</value>
+    <value>fadlan restar</value>
     <comment>Text of the language changed popup</comment>
   </data>
   <data name="LanguageChangedTitle" xml:space="preserve">
-    <value>Language Changed</value>
+    <value>isbeddel luqadda</value>
     <comment>Title of the language changed popup</comment>
   </data>
   <data name="Settings24HourClock" xml:space="preserve">
-    <value>24 Hour Clock</value>
+    <value>24 saacadood saacad</value>
     <comment>Settings 24 hour clock label</comment>
   </data>
   <data name="Settings24HourClockTooltip" xml:space="preserve">
-    <value>Changes the clock's time format to 24 hours.</value>
+    <value>isbedelka saacadda</value>
     <comment>Settings 24 hour clock tooltip</comment>
   </data>
   <data name="SettingsAdvancedTab" xml:space="preserve">
@@ -502,43 +502,43 @@
     <comment>Title of the settings advanced tab</comment>
   </data>
   <data name="SettingsAlertFontColor" xml:space="preserve">
-    <value>Alert Font Color</value>
+    <value>midabka font heegan</value>
     <comment>Settings alert font color label</comment>
   </data>
   <data name="SettingsAlertFontColorTooltip" xml:space="preserve">
-    <value>Color of alert text.</value>
+    <value>midabka qoraalka heegan</value>
     <comment>Settings alert font color tooltip</comment>
   </data>
   <data name="SettingsAllCoreClocks" xml:space="preserve">
-    <value>Show All Core Clocks</value>
+    <value>tusi doono oo dhan saacad core</value>
     <comment>Settings all core clocks label</comment>
   </data>
   <data name="SettingsAllCoreClocksTooltip" xml:space="preserve">
-    <value>Shows the clock speeds of all cores not just the first.</value>
+    <value>Waxay tusineysaa xawaare saacad oo dhan diirkja ah ma ahan oo keliya ugu horreeyey .</value>
     <comment>Settings all core clocks tooltip</comment>
   </data>
   <data name="SettingsAltTab" xml:space="preserve">
-    <value>Show in Alt + Tab</value>
+    <value>Tus in Alt + Tab</value>
     <comment>Settings alt tab label</comment>
   </data>
   <data name="SettingsAltTabTooltip" xml:space="preserve">
-    <value>Shows the sidebar in the Alt + Tab menu.</value>
+    <value>Waxay tusineysaa galeeysid ee menu Alt + Tab .</value>
     <comment>Settings alt tab tooltip</comment>
   </data>
   <data name="SettingsAlwaysOnTop" xml:space="preserve">
-    <value>Always On Top</value>
+    <value>Had iyo jeer On Top</value>
     <comment>Settings always on top label</comment>
   </data>
   <data name="SettingsAlwaysOnTopTooltip" xml:space="preserve">
-    <value>Makes the sidebar always on top of other windows.</value>
+    <value>Ka dhigaysa galeeysid had iyo jeer on top of daaqadaha kale .</value>
     <comment>Settings always on top tooltip</comment>
   </data>
   <data name="SettingsAutoBackground" xml:space="preserve">
-    <value>Auto Background Color</value>
+    <value>Color Background Auto</value>
     <comment>Settings auto background label</comment>
   </data>
   <data name="SettingsAutoBackgroundTooltip" xml:space="preserve">
-    <value>Sets the background color to your Windows color settings.</value>
+    <value>Qeexaa midabka asalka ah si aad goobaha midabka Windows .</value>
     <comment>Settings auto background tooltip</comment>
   </data>
   <data name="SettingsAutoUpdate" xml:space="preserve">
@@ -546,7 +546,7 @@
     <comment>Settings auto update label</comment>
   </data>
   <data name="SettingsAutoUpdateTooltip" xml:space="preserve">
-    <value>Updates the app automatically.</value>
+    <value>Updates app si toos ah .</value>
     <comment>Settings auto update tooltip</comment>
   </data>
   <data name="SettingsBackgroundColor" xml:space="preserve">
@@ -558,11 +558,11 @@
     <comment>Settings background color tooltip</comment>
   </data>
   <data name="SettingsBackgroundOpacity" xml:space="preserve">
-    <value>Background Opacity</value>
+    <value>dhexaragga Background</value>
     <comment>Settings background opacity label</comment>
   </data>
   <data name="SettingsBackgroundOpacityTooltip" xml:space="preserve">
-    <value>Opacity of the background.</value>
+    <value>Dhexaragga ee asalka .</value>
     <comment>Settings background opacity tooltip</comment>
   </data>
   <data name="SettingsBandwidthInAlert" xml:space="preserve">
@@ -570,7 +570,7 @@
     <comment>Settings bandwidth in alert label</comment>
   </data>
   <data name="SettingsBandwidthInAlertTooltip" xml:space="preserve">
-    <value>The kbps or kBps threshold at which bandwidth received alerts occur. Use 0 to disable.</value>
+    <value>The kbps ama Kbps marinkii ee bandwidth heshay qaylodhaan ka dhacaan . Isticmaal 0 ilaa gab .</value>
     <comment>Settings bandwidth in alert tooltip</comment>
   </data>
   <data name="SettingsBandwidthOutAlert" xml:space="preserve">
@@ -582,11 +582,11 @@
     <comment>Settings bandwidth out alert tooltip</comment>
   </data>
   <data name="SettingsClickThrough" xml:space="preserve">
-    <value>Click Through</value>
+    <value>Guji Iyada</value>
     <comment>Settings click through label</comment>
   </data>
   <data name="SettingsClickThroughTooltip" xml:space="preserve">
-    <value>Makes mouse events pass through the window. Note this will prevent any interaction with the sidebar.</value>
+    <value>Ka dhig dhacdooyinka mouse mari daaqadda kaga dhex . Fiiro this ka hortagi doonaan wax is dhexgalka galeeysid ah .</value>
     <comment>Settings click through tooltip</comment>
   </data>
   <data name="SettingsCollapseMenuBar" xml:space="preserve">
@@ -594,39 +594,39 @@
     <comment>Settings collapse menu bar label</comment>
   </data>
   <data name="SettingsCollapseMenuBarTooltip" xml:space="preserve">
-    <value>Removes the extra space at the top of the sidebar.</value>
+    <value>Bixisaa meel bannaan oo dheeraad ah sare ee galeeysid ah</value>
     <comment>Settings collapse menu bar tooltip</comment>
   </data>
   <data name="SettingsCoreLoads" xml:space="preserve">
-    <value>Show Core Loads</value>
+    <value>Xamuulka Show Core</value>
     <comment>Settings core loads label</comment>
   </data>
   <data name="SettingsCoreLoadsTooltip" xml:space="preserve">
-    <value>Shows the percentage load of all cores.</value>
+    <value>Waxay tusineysaa load boqolkiiba dhammaan diirkja ah</value>
     <comment>Settings core loads tooltip</comment>
   </data>
   <data name="SettingsCustomizeTab" xml:space="preserve">
-    <value>Customize</value>
+    <value>Habee</value>
     <comment>Title of the settings customize tab</comment>
   </data>
   <data name="SettingsDateFormat" xml:space="preserve">
-    <value>Date Format</value>
+    <value>Taariikhda Format</value>
     <comment>Settings date format label</comment>
   </data>
   <data name="SettingsDateFormatDisabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>naafada</value>
     <comment>Settings date format disabled value</comment>
   </data>
   <data name="SettingsDateFormatTooltip" xml:space="preserve">
-    <value>Format of the date below the clock.</value>
+    <value>Format taariikhda hoos ku saacba .</value>
     <comment>Settings date format tooltip</comment>
   </data>
   <data name="SettingsDock" xml:space="preserve">
-    <value>Dock</value>
+    <value>meegaarka</value>
     <comment>Dock settings label</comment>
   </data>
   <data name="SettingsDockBottom" xml:space="preserve">
-    <value>Bottom</value>
+    <value>hoose</value>
     <comment>Dock bottom settings label</comment>
   </data>
   <data name="SettingsDockLeft" xml:space="preserve">
@@ -634,11 +634,11 @@
     <comment>Dock left settings label</comment>
   </data>
   <data name="SettingsDockRight" xml:space="preserve">
-    <value>Right</value>
+    <value>Midigta</value>
     <comment>Dock right settings label</comment>
   </data>
   <data name="SettingsDockTooltip" xml:space="preserve">
-    <value>Which edge the sidebar will dock to.</value>
+    <value>Waa kuwee laayeen galeeysid ku xirto doonaa in.</value>
     <comment>Dock settings tooltip</comment>
   </data>
   <data name="SettingsDockTop" xml:space="preserve">
@@ -646,7 +646,7 @@
     <comment>Dock top settings label</comment>
   </data>
   <data name="SettingsDriveDetailsTooltip" xml:space="preserve">
-    <value>Shows extra drive details as text.</value>
+    <value>Waxay tusineysaa faahfaahin dheeraad ah drive sidii text .</value>
     <comment>Settings drive details tooltip</comment>
   </data>
   <data name="SettingsFontColor" xml:space="preserve">
@@ -662,15 +662,15 @@
     <comment>Settings font size label</comment>
   </data>
   <data name="SettingsFontSizeTooltip" xml:space="preserve">
-    <value>Size of text and icons.</value>
+    <value>Size of qoraal iyo astaamo .</value>
     <comment>Settings font size tooltip</comment>
   </data>
   <data name="SettingsGeneralTab" xml:space="preserve">
-    <value>General</value>
+    <value>guud</value>
     <comment>Title of the settings general tab</comment>
   </data>
   <data name="SettingsHardwareColumn1" xml:space="preserve">
-    <value>Enabled</value>
+    <value>awood</value>
     <comment>Settings hardware data grid enabled column header</comment>
   </data>
   <data name="SettingsHardwareColumn2" xml:space="preserve">
@@ -678,23 +678,23 @@
     <comment>Settings hardware data grid hardware column header</comment>
   </data>
   <data name="SettingsHardwareEnabledTooltip" xml:space="preserve">
-    <value>Enables this hardware. (Double click to change. Known bug.)</value>
+    <value>Awood hardware this . ( Double click in la beddelo . Cayayaanka loo yaqaan . )</value>
     <comment>Settings hardware enabled checkbox tooltip</comment>
   </data>
   <data name="SettingsHardwareNameTooltip" xml:space="preserve">
-    <value>Edit the name of this hardware.</value>
+    <value>Edit magaca hardware this .</value>
     <comment>Settings hardware name tooltip</comment>
   </data>
   <data name="SettingsHorizontalOffset" xml:space="preserve">
-    <value>Horizontal Offset</value>
+    <value>horizontal mowjadda</value>
     <comment>Horizontal offset settings label</comment>
   </data>
   <data name="SettingsHorizontalOffsetTooltip" xml:space="preserve">
-    <value>Horizontal offset of the sidebar.</value>
+    <value>Horizontal mowjadda of galeeysid ah .</value>
     <comment>Horizontal offset settings tooltip</comment>
   </data>
   <data name="SettingsHotkeyClose" xml:space="preserve">
-    <value>Close</value>
+    <value>ku dhow</value>
     <comment>Settings hotkey close label</comment>
   </data>
   <data name="SettingsHotkeyCycleEdge" xml:space="preserve">
@@ -706,15 +706,15 @@
     <comment>Settings hotkey switch screen</comment>
   </data>
   <data name="SettingsHotkeyHide" xml:space="preserve">
-    <value>Hide</value>
+    <value>qarin</value>
     <comment>Settings hotkey hide label</comment>
   </data>
   <data name="SettingsHotkeyReload" xml:space="preserve">
-    <value>Reload</value>
+    <value>miridh</value>
     <comment>Settings hotkey reload label</comment>
   </data>
   <data name="SettingsHotkeyShow" xml:space="preserve">
-    <value>Show</value>
+    <value>tusin</value>
     <comment>Settings hotkey show label</comment>
   </data>
   <data name="SettingsHotkeysTab" xml:space="preserve">
@@ -726,7 +726,7 @@
     <comment>Settings hotkey toggle label</comment>
   </data>
   <data name="SettingsLanguage" xml:space="preserve">
-    <value>Language</value>
+    <value>afka</value>
     <comment>Settings language label</comment>
   </data>
   <data name="SettingsLanguageDefault" xml:space="preserve">
@@ -734,23 +734,23 @@
     <comment>Settings language default label</comment>
   </data>
   <data name="SettingsLanguageTooltip" xml:space="preserve">
-    <value>Current language of the app.</value>
+    <value>luqadda hadda ee app ah .</value>
     <comment>Settings language tooltip</comment>
   </data>
   <data name="SettingsMetrics" xml:space="preserve">
-    <value>Metrics:</value>
+    <value>tubta :</value>
     <comment>Settings metrics label with colon</comment>
   </data>
   <data name="SettingsMetricsTooltip" xml:space="preserve">
-    <value>Enable or disable specific metrics.</value>
+    <value>Sahlo ama gab tubta gaar ah .</value>
     <comment>Settings metrics tooltip</comment>
   </data>
   <data name="SettingsMonitorEnabledTooltip" xml:space="preserve">
-    <value>Enables this monitor.</value>
+    <value>Awood monitor this .</value>
     <comment>Settings monitor enabled checkbox tooltip</comment>
   </data>
   <data name="SettingsMonitorsColumn1" xml:space="preserve">
-    <value>Enabled</value>
+    <value>karti</value>
     <comment>Settings monitors data grid enabled column header</comment>
   </data>
   <data name="SettingsMonitorsColumn2" xml:space="preserve">
@@ -758,11 +758,11 @@
     <comment>Settings monitors data grid monitor column header</comment>
   </data>
   <data name="SettingsMonitorsSubtitle1" xml:space="preserve">
-    <value>Click a row to edit its settings.</value>
+    <value>Guji isku xigta si edit goobaha ay .</value>
     <comment>Settings monitors subtitle line one</comment>
   </data>
   <data name="SettingsMonitorsSubtitle2" xml:space="preserve">
-    <value>Drag a row to change its order.</value>
+    <value>Jiid isku xigta in isbedel si .</value>
     <comment>Settings monitors subtitle line two</comment>
   </data>
   <data name="SettingsMonitorsTab" xml:space="preserve">
@@ -770,11 +770,11 @@
     <comment>Title of the settings monitors tab</comment>
   </data>
   <data name="SettingsPollingInterval" xml:space="preserve">
-    <value>Polling Interval</value>
+    <value>bareeg doorashada</value>
     <comment>Settings polling interval label</comment>
   </data>
   <data name="SettingsPollingIntervalTooltip" xml:space="preserve">
-    <value>Time between polling for data in milliseconds.</value>
+    <value>Waqtiga u dhexeeya codbixinta xogta ku rabtay .</value>
     <comment>Settings polling interval tooltip</comment>
   </data>
   <data name="SettingsReserveSpace" xml:space="preserve">
@@ -782,23 +782,23 @@
     <comment>Settings reserve space label</comment>
   </data>
   <data name="SettingsReserveSpaceTooltip" xml:space="preserve">
-    <value>Reserves space in the work area for the sidebar.</value>
+    <value>meel Keydka deegaanka shaqada ee galeeysid ah .</value>
     <comment>Settings reserve space tooltip</comment>
   </data>
   <data name="SettingsRoundAllDecimals" xml:space="preserve">
-    <value>Round All Decimals</value>
+    <value>Round All tobanlayaasha</value>
     <comment>Settings round all decimals label</comment>
   </data>
   <data name="SettingsRoundAllDecimalsTooltip" xml:space="preserve">
-    <value>Round all decimal values to the nearest integer.</value>
+    <value>Round oo dhan qiimaha tobanle in abyoonaha ee kuugu dhow .</value>
     <comment>Settings round all decimals tooltip</comment>
   </data>
   <data name="SettingsRunAtStartup" xml:space="preserve">
-    <value>Run at Startup</value>
+    <value>Orod at xawaaladaha</value>
     <comment>Settings run at startup label</comment>
   </data>
   <data name="SettingsRunAtStartupTooltip" xml:space="preserve">
-    <value>Runs the app when you first log in.</value>
+    <value>Waddaa app marka ugu horeysa ee aad gasho</value>
     <comment>Settings run at startup tooltip</comment>
   </data>
   <data name="SettingsScreen" xml:space="preserve">
@@ -806,7 +806,7 @@
     <comment>Screen settings label</comment>
   </data>
   <data name="SettingsScreenTooltip" xml:space="preserve">
-    <value>Which screen the sidebar will be on.</value>
+    <value>Waa kuwee baaraan galeeysid ku noqon doonaa .</value>
     <comment>Screen settings tooltip</comment>
   </data>
   <data name="SettingsShowClock" xml:space="preserve">
@@ -814,7 +814,7 @@
     <comment>Settings show clock label</comment>
   </data>
   <data name="SettingsShowClockTooltip" xml:space="preserve">
-    <value>Shows the clock.</value>
+    <value>Waxay tusineysaa saacba .</value>
     <comment>Settings show clock tooltip</comment>
   </data>
   <data name="SettingsShowDriveDetails" xml:space="preserve">
@@ -826,7 +826,7 @@
     <comment>Settings show drive IO label</comment>
   </data>
   <data name="SettingsShowDriveIOTooltip" xml:space="preserve">
-    <value>Shows drive read and write speeds if drive details is enabled.</value>
+    <value>Muujinaysaa Drive akhriska iyo qorista xawaare haddii faahfaahin drive waa awood .</value>
     <comment>Settings show drive IO tooltip</comment>
   </data>
   <data name="SettingsShowDriveSpace" xml:space="preserve">
@@ -838,19 +838,19 @@
     <comment>Settings show drive space tooltip</comment>
   </data>
   <data name="SettingsShowHardwareNames" xml:space="preserve">
-    <value>Show Hardware Names</value>
+    <value>Magacyada Show Hardware</value>
     <comment>Settings show hardware names label</comment>
   </data>
   <data name="SettingsShowHardwareNamesTooltip" xml:space="preserve">
-    <value>Shows hardware names.</value>
+    <value>Magacyada Show Hardware</value>
     <comment>Settings show hardware names tooltip</comment>
   </data>
   <data name="SettingsShowTrayIcon" xml:space="preserve">
-    <value>Show Tray Icon</value>
+    <value>Show saxaarad Icon</value>
     <comment>Settings show tray icon label</comment>
   </data>
   <data name="SettingsShowTrayIconTooltip" xml:space="preserve">
-    <value>Shows the tray icon in the taskbar. This is sometimes required.</value>
+    <value>Waxay tusineysaa icon saxaarad ee Launch ah . Tani waxaa mararka qaarkood loo baahan yahay .</value>
     <comment>Settings show tray icon tooltip</comment>
   </data>
   <data name="SettingsSidebarWidth" xml:space="preserve">
@@ -862,15 +862,15 @@
     <comment>Settings sidebar width tooltip</comment>
   </data>
   <data name="SettingsTemperatureAlert" xml:space="preserve">
-    <value>Temperature Alert</value>
+    <value>Alert Heerkulka</value>
     <comment>Settings temperature alert label</comment>
   </data>
   <data name="SettingsTemperatureAlertTooltip" xml:space="preserve">
-    <value>The temperature threshold at which alerts occur. Use 0 to disable.</value>
+    <value>marinkii Heerkulka at kaas oo qaylodhaan ka dhacaan . Isticmaal 0 ilaa gab .</value>
     <comment>Settings temperature alert tooltip</comment>
   </data>
   <data name="SettingsTitle" xml:space="preserve">
-    <value>Sidebar Settings</value>
+    <value>Settings galeeysid</value>
     <comment>Title of the settings window</comment>
   </data>
   <data name="SettingsUIScale" xml:space="preserve">
@@ -878,31 +878,31 @@
     <comment>Settings UI scale label</comment>
   </data>
   <data name="SettingsUIScaleTooltip" xml:space="preserve">
-    <value>Scale of all windows and UI components.</value>
+    <value>Miisaanka of daaqadaha iyo qaybaha UI .</value>
     <comment>Settings UI scale tooltip</comment>
   </data>
   <data name="SettingsUseBytesPerSecond" xml:space="preserve">
-    <value>Use Bytes Per Second</value>
+    <value>Isticmaal bytes Per Labaad</value>
     <comment>Settings use bytes per second label</comment>
   </data>
   <data name="SettingsUseBytesPerSecondTooltip" xml:space="preserve">
-    <value>Shows bandwidth in bytes instead of bits per second.</value>
+    <value>Waxay tusineysaa bandwidth in bytes halkii gelinno per labaad .</value>
     <comment>Settings use bytes per second tooltip</comment>
   </data>
   <data name="SettingsUsedSpaceAlert" xml:space="preserve">
-    <value>Used Space Alert</value>
+    <value>Isticmaalay Space Alert</value>
     <comment>Settings used space alert label</comment>
   </data>
   <data name="SettingsUsedSpaceAlertTooltip" xml:space="preserve">
-    <value>The percentage threshold at which used space alerts occur. Use 0 to disable.</value>
+    <value>marinkii Boqolkiiba at taas oo loo isticmaalo meel qaylodhaan dhacaan . Isticmaal 0 ilaa gab .</value>
     <comment>Settings used space alert tooltip</comment>
   </data>
   <data name="SettingsUseFahrenheit" xml:space="preserve">
-    <value>Use Fahrenheit</value>
+    <value>Isticmaal Fahrenheit</value>
     <comment>Settings use fahrenheit label</comment>
   </data>
   <data name="SettingsUseFahrenheitTooltip" xml:space="preserve">
-    <value>Temperatures for sensors and alerts will be in Fahrenheit instead of Celcius.</value>
+    <value>Heerkulka for dareemayaal iyo qaylodhaan noqon doontaa in Fahrenheit halkii Celcius .</value>
     <comment>Settings use fahrenheit tooltip</comment>
   </data>
   <data name="SettingsUseGHz" xml:space="preserve">
@@ -978,23 +978,23 @@
     <comment>Settings text align label</comment>
   </data>
   <data name="SettingsTextAlignLeft" xml:space="preserve">
-    <value>Left</value>
+    <value>bidix</value>
     <comment>Settings text align left value</comment>
   </data>
   <data name="SettingsTextAlignRight" xml:space="preserve">
-    <value>Right</value>
+    <value>midig</value>
     <comment>Settings text align right value</comment>
   </data>
   <data name="SettingsTextAlignTooltip" xml:space="preserve">
-    <value>Alignment of metric text.</value>
+    <value>Sinaanta ee qoraalka ton .</value>
     <comment>Settings text align tooltip</comment>
   </data>
   <data name="SettingsAlertBlink" xml:space="preserve">
-    <value>Alert Blink</value>
+    <value>bilig bilig heegan</value>
     <comment>Settings alert blink label</comment>
   </data>
   <data name="SettingsAlertBlinkTooltip" xml:space="preserve">
-    <value>Makes the alert text blink.</value>
+    <value>dhigi bilig bilig ah text heegan</value>
     <comment>Settings alert blink tooltip</comment>
   </data>
 </root>
